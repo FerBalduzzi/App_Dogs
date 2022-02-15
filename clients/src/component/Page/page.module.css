@@ -65,7 +65,7 @@ header {
 .wave {
   height: 100px;
   width: 100%;
-  background: #41cbdd; /* fallback for old browsers */
+  background: #9364cf; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to left,
     #5c30a3,

@@ -19,7 +19,7 @@ export function Home(props) {
   });
   const [pagRazas, setPagRazas] = useState(1);
 
-  const primerGrupo = 8;
+  const primerGrupo = 12;
   const conteoFinal = pagRazas * primerGrupo;
   const conteoInicial = conteoFinal - primerGrupo;
   const vista = props.estado.slice(conteoInicial, conteoFinal);
