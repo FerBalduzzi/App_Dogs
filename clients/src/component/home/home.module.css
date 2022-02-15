@@ -141,7 +141,7 @@ nav {
   margin-left: 5px;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 710px) {
   #navig {
     width: 375px;
     left: -300px;
