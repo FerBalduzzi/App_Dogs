@@ -114,6 +114,7 @@ nav {
   margin: 10px;
   text-align: center;
   transition: all 0.25s;
+  box-shadow: 0 0 0 5px #333, 0 30px 50px;
 }
 
 .container .card:hover {
@@ -123,7 +124,8 @@ nav {
 
 .container .card .imagen {
   width: 330px;
-  height: 220px;
+  height: 190px;
+  /*box-shadow: 0 0 0 5px #333, 0 30px 50px;*/
 }
 
 .btnPaginado {
@@ -174,7 +176,7 @@ nav {
 
   .container .card .imagen {
     width: 220px;
-    height: 200px;
+    height: 300px;
   }
   .btnPaginado {
     text-align: center;
